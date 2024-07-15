@@ -1,0 +1,25 @@
+{
+  "name": "node.js-readme-generator",
+  "version": "1.0.0",
+  "description": "A professional ReadMe file for my new project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JLH-Owner/node.js-readme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Stacy Herbert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JLH-Owner/node.js-readme-generator/issues"
+  },
+  "homepage": "https://github.com/JLH-Owner/node.js-readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
